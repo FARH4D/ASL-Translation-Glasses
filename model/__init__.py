@@ -1,0 +1,1 @@
+from model.landmarkIdentifier.landmarkIdentifier import landmarkIdentifier
